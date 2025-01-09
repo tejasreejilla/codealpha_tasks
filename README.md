@@ -1,4 +1,5 @@
 Brief Overview of the Enhanced Network Sniffer Project
+
 The Enhanced Network Sniffer project is a Python-based tool designed to capture, analyze, and visualize real-time network traffic. It provides a deeper understanding of how data flows on a network, how packets are structured, and the ability to monitor and detect potential anomalies or threats.
 
 Key Features
